@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jojalo112
 - 👀 I’m interested in biostatistics and epidemiology.
-- 🌱 I’m currently learning python and ML
 - 📫 How to reach me: m.joja77@gmail.com
 
 <!---
